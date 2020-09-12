@@ -1,6 +1,6 @@
 {
   "name": "urlmg",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Given a URL, respond with  a set of images that may represent that site.",
   "main": "index.js",
   "type": "module",
